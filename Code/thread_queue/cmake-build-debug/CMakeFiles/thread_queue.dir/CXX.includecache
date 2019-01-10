@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/netta/Downloads/AL_EXAM/Code/thread_queue/main.cpp
+queue
+-
+mutex
+-
+thread
+-
+iostream
+-
+

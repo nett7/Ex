@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/netta/Downloads/AL_EXAM/Code/Pool_threads/main.cpp
+thread_pool.h
+/home/netta/Downloads/AL_EXAM/Code/Pool_threads/thread_pool.h
+iostream
+-
+
+/home/netta/Downloads/AL_EXAM/Code/Pool_threads/thread_pool.h
+future
+-
+thread
+-
+queue
+-
+functional
+-
+atomic
+-
+

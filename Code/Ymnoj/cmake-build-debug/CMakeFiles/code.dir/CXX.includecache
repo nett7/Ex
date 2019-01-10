@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/netta/Downloads/AL_EXAM/code/main.cpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+thread
+-
+future
+-
+time.h
+-
+

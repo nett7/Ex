@@ -1,0 +1,4 @@
+/home/netta/prog_files/clion-2018.1.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/netta/Downloads/AL_EXAM/Code/condition_varible
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/netta/Downloads/AL_EXAM/Code/condition_varible/cmake-build-debug
